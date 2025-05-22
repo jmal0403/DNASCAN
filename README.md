@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <!--
-*** DNAnamer: DNA N-gram analysis framework
+*** DNASCAN: DNA N-gram analysis framework
 *** John Stephen Malamon, Ph.D.
 -->
 
@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Author - John Stephen Malamon, Ph.D.
 
-Project Link: [https://github.com/jmal0403/DNAnamer](https://github.com/jmal0403/DNASCAN)
+Project Link: [https://github.com/jmal0403/DNASCAN](https://github.com/jmal0403/DNASCAN)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
