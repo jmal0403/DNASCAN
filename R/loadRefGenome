@@ -1,0 +1,5 @@
+loadRefGenome <- function(organism.name) {
+  genome.refseq <- getGenome(db = "refseq", organism = organism.name, path = file.path("_ncbi_downloads","genomes"), skip_bacteria = TRUE)
+  Genome <-  read_genome(file = genome.refseq)
+  return(Genome)
+}
