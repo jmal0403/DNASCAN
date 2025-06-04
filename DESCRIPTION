@@ -1,10 +1,10 @@
-Package: DNAnamer
+Package: DNASCAN
 Type: Package
-Title: DNA N-gram Analysis Framework
+Title: DNA Sequence Contamination ANalyzer
 Version: 0.1.0
 Author: John Stephen Malamon, PhD
 Maintainer: John <jmal0403@gmail.com>
-Description: A toolkit for the binary and multi-class supervised classification of DNA sequences based on their DNA N-gram frequency patterns.
+Description:
 License: 
 Encoding: UTF-8
 LazyData: true
